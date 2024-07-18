@@ -1,6 +1,6 @@
 # July 2024
 
-## [01/07/2024](url)
+## [2024/07/18](https://cssbattle.dev/play/j3ykZzA2Y99AsYcPCRKo)
 
 <img width="400px" height="300px" loading="lazy" src="/assets/daily-targets/2024/07-july/20240718.png">
 
