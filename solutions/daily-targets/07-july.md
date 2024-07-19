@@ -82,6 +82,51 @@
 
 ```
 
+## [2024/07/17](https://cssbattle.dev/play/63uT8mAsvJRLBjA2dsct)
+
+<img width="400px" height="300px" loading="lazy" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_apjnNh9.png?alt=media">
+
+#### Solution:
+
+```html
+<main>
+  <div class="head">
+    <div class="eyes"></div>
+    <div class="eyes"></div>
+  </div>
+</main>
+<style>
+  * { 
+    margin: 0
+  }
+  main {
+    background: #EDAF38;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  div {
+    &.head {
+      background: #FFFFCD;
+      width: 140px;
+      height: 190px;
+      display: inherit;
+      align-items: inherit;
+      justify-content: inherit;
+      gap: 10px;
+      clip-path: polygon(0 26%, 18% 0, 36% 26.5%, 64% 26.5%, 82% 0, 100% 26%, 50% 100%);
+    }
+    &.eyes {
+      margin-top: 20px;
+      border: solid;
+      border-width: 30px 15px;
+      border-color: #EDAF38 transparent transparent;
+    }
+  }
+</style>
+```
+
 ## [2024/07/16](https://cssbattle.dev/play/Xi1SSXp9H6g10bK65ZLA)
 
 <img width="400px" height="300px" loading="lazy" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_o2MVPVs.png?alt=media">
