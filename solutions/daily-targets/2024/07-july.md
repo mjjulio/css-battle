@@ -44,13 +44,6 @@
 </style>
 ```
 
-<details>
-  <summary>#### Top Solution</summary>
-  ```html
-  <style>&{margin:-10 0;background:#25834A;border:solid 5pc#041E;*{margin:-20 90;background:#48BF7D
-  ```
-</details>
-
 ## [2024/07/18](https://cssbattle.dev/play/j3ykZzA2Y99AsYcPCRKo)
 
 <img width="400px" height="300px" loading="lazy" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_482znT4.png?alt=media">
@@ -88,6 +81,13 @@
 </style>
 
 ```
+
+<details>
+  <summary>Top Solution</summary>
+  <pre>
+    <style>&{margin:-10 0;background:#25834A;border:solid 5pc#041E;*{margin:-20 90;background:#48BF7D
+  </pre>
+</details>
 
 ## [2024/07/17](https://cssbattle.dev/play/63uT8mAsvJRLBjA2dsct)
 
