@@ -4,7 +4,7 @@
 
 <img width="400px" height="300px" loading="lazy" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_Y9GeINv.png?alt=media">
 
-#### Solution:
+#### My Solution:
 
 ```html
 <main>
@@ -48,7 +48,7 @@
 
 <img width="400px" height="300px" loading="lazy" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_482znT4.png?alt=media">
 
-#### Solution:
+#### My Solution:
 
 ```html
 <main>
@@ -83,17 +83,15 @@
 ```
 
 <details>
-  <summary>Top Solution</summary>
-  <pre>
-    <style>&{margin:-10 0;background:#25834A;border:solid 5pc#041E;*{margin:-20 90;background:#48BF7D
-  </pre>
+  <summary>Top Solution:</summary>
+  <pre><style>&{margin:-10 0;background:#25834A;border:solid 5pc#041E;*{margin:-20 90;background:#48BF7D</pre>
 </details>
 
 ## [2024/07/17](https://cssbattle.dev/play/63uT8mAsvJRLBjA2dsct)
 
 <img width="400px" height="300px" loading="lazy" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_apjnNh9.png?alt=media">
 
-#### Solution:
+#### My Solution:
 
 ```html
 <main>
@@ -138,7 +136,7 @@
 
 <img width="400px" height="300px" loading="lazy" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_o2MVPVs.png?alt=media">
 
-#### Solution:
+#### My Solution:
 
 ```html
 <main>
@@ -191,7 +189,7 @@
 
 <img width="400px" height="300px" loading="lazy" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_cdoXsLV.png?alt=media">
 
-#### Solution:
+#### My Solution:
 
 ```html
 <main>
@@ -232,7 +230,7 @@
 
 <img width="400px" height="300px" loading="lazy" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_dKk0sS9.png?alt=media">
 
-#### Solution:
+#### My Solution:
 
 ```html
 <main>
@@ -268,44 +266,11 @@
 </style>
 ```
 
-
-```html
-<main>
-  <div></div>
-  <div></div>
-</main>
-<style>
-  * {
-    margin: 0;
-  }
-  main {
-    background: #243D83;
-    height: 100vh;
-    display: grid;
-    grid-template-areas:
-      "one ."
-      ". ."
-      ". two";
-    grid-template-rows: repeat(3, 1fr);
-  }
-  div {
-    width: 200px;
-    height: 100px;
-    background: conic-gradient(from -21.5deg at 50% 100%, #243D83 12%, #6592CF 0);
-    
-    &:last-of-type {
-      grid-area: two;
-      scale:-1
-    }
-  }
-</style>
-```
-
 ## [2024/07/12](https://cssbattle.dev/play/zdlHeV5jrQqFujTJ6RcR)
 
 <img width="400px" height="300px" loading="lazy" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_s6NqTP3.png?alt=media">
 
-#### Solution:
+#### My Solution:
 
 ```html
 <main>
