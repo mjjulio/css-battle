@@ -1,5 +1,118 @@
 # July 2024
 
+## [2024/07/21](https://cssbattle.dev/play/7T0XdIP4lLXtFht6PK2r)
+
+<img width="400px" height="300px" loading="lazy" src="c:\Users\kmcpj\AppData\Local\Temp\user_ummd3POvEDfFyeFvVdOMG3OOrwE2_targets_target_fEuqCIG.png">
+
+#### My Solution:
+
+```html
+<main>
+  <div></div>
+  <div class="after"></div>
+  <div></div>
+  <div class="before"></div>
+  <div class="before after"></div>
+  <div class="after"></div>
+  <div></div>
+  <div class="before"></div>
+  <div></div>
+</main>
+<style>
+  * {
+    margin: 0;
+  }
+  main {
+    height: calc(100vh - 100px);
+    padding: 50px 100px;
+    background: #0A6190;
+    display: grid;
+    grid-template-columns: 3fr 2fr 3fr;
+    grid-template-rows: 3fr 2fr 3fr;
+  }
+  div {
+    position: relative;
+    &:nth-child(even),
+    &:nth-child(5) {
+      background: #328FC1;
+    }
+    &.after::after,
+    &.before::before {
+      content: "";
+      display: block;
+      width: 25px;
+      height: 25px;
+      background: #0A6190;
+      position: absolute;
+    }
+    &.after::after {
+      inset: auto auto 0 0;
+    }
+    &.before::before {
+      inset: 0 0 auto auto;
+    }
+  }
+</style>
+```
+
+
+## [2024/07/20](https://cssbattle.dev/play/74fe9XcTz4tjx4iscBz9)
+
+<img width="400px" height="300px" loading="lazy" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_pMOTIYD.png?alt=media">
+
+#### My Solution:
+
+```html
+<main>
+  <div></div>
+  <div></div>
+  <div></div>
+  <div></div>
+  <div></div>
+</main>
+<style>
+  * {
+    margin: 0;
+  }
+  main {
+    background: #F48B26;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+  }
+  div {
+    background: #FEFF58;
+    width: 40px;
+    height: 200px;
+
+    &:first-child, &:last-child {
+      &::before {
+        content: "";
+        display: block;
+        width: 275px;
+        height: 275px;
+        background: #F48B26;
+        position: relative;
+        border-radius: 50%;
+        left: -155px;
+        top: -136px;
+      }
+    }
+    &:last-child::before {
+      left: -80px
+    }
+  }
+</style>
+```
+
+<details>
+  <summary>Top Solution:</summary>
+  <pre><style>&{background:#F48B26;border:5vw dashed#FEFF58;margin:130 60;scale:1 5;*{margin:-48 60;scale:5 1;border-top:dotted 7ch#F48B26</pre>
+</details>
+
+
 ## [2024/07/19](https://cssbattle.dev/play/zqsEhghz74OQZxY841Mh)
 
 <img width="400px" height="300px" loading="lazy" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_Y9GeINv.png?alt=media">
