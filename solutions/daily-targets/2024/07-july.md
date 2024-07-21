@@ -2,7 +2,7 @@
 
 ## [2024/07/21](https://cssbattle.dev/play/7T0XdIP4lLXtFht6PK2r)
 
-<img width="400px" height="300px" loading="lazy" src="c:\Users\kmcpj\AppData\Local\Temp\user_ummd3POvEDfFyeFvVdOMG3OOrwE2_targets_target_fEuqCIG.png">
+<img width="400px" height="300px" loading="lazy" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_fEuqCIG.png?alt=media">
 
 #### My Solution:
 
