@@ -1,5 +1,46 @@
 # June 2024
 
+## [2024/06/26](https://cssbattle.dev/play/dqUja1HgyVAreGb9jWAd)
+
+<img width="400px" height="300px" loading="lazy" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_hBT5NLr.png?alt=media">
+
+```html
+<main>
+  <div></div>
+  <div></div>
+</main>
+<style>
+  * {
+    margin: 0;
+  }
+  main, div {
+    --color1: #48BF7D 0 30px;
+    --color2: #024817 0;
+    --options: ;
+    background: radial-gradient(circle, var(--color1), var(--color2)) var(--options);
+  }
+  main {
+    height: 100vh;
+  }
+  div {
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    top: 50px;
+    left: 100px;
+    --color1: #48BF7D 0 20px;
+    --color2: transparent 0;
+    --options: top left/100px 100px;
+
+    &:last-child {
+      --color1: #176C36 0 20px;
+      rotate: 45deg;
+    }
+  }
+</style>
+```
+
+
 ## [2024/06/25](https://cssbattle.dev/play/qKIRr3xZYc2T6RJLdmSy)
 
 <img width="400px" height="300px" loading="lazy" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_N1QVAzZ.png?alt=media">
@@ -7,6 +48,43 @@
 #### My Solution:
 
 ```html
+<main>
+  <div></div>
+  <div></div>
+  <div></div>
+  <div></div>
+</main>
+<style>
+  * {
+    margin: 0;
+  }
+  main {
+    margin-top: -80px;
+  }
+  div {
+    width: calc(100% - 40px);
+    height: 100px;
+    background: #81008F;
+    border: solid #DBBEDF;
+    border-width: 0 20px 20px;
+    
+    &::after {
+      content: "";
+      display: block;
+      height: 20px;
+      width: 180px;
+      background: #81008F;
+      position: relative;
+      top: 100px;
+      left: 90px
+    }
+
+    &:nth-child(even)::after {
+      left: 130px;
+      width: 100px;
+    }
+  }
+</style>
 ```
 
 
