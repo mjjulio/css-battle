@@ -1,5 +1,31 @@
 # July 2024
 
+## [2024/07/22](https://cssbattle.dev/play/Xn5t4qDbfBvqHiOTRxa8)
+
+<img width="400px" height="300px" loading="lazy" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_WDIDQzO.png?alt=media">
+
+#### My Solution:
+
+```html
+<div></div>
+<style>
+  * {
+    margin: 0;
+    background: #B53733;
+  }
+  div {
+    width: 20px;
+    height: 150px;
+    background: #EA7457;
+    color: #EA7457;
+    margin: -10px 0 0 30px;
+    box-shadow: 40px 40px, 80px 80px, 120px 120px, 160px 160px, 200px 120px, 240px 80px, 280px 40px, 320px 0
+  }
+</style>
+
+```
+
+
 ## [2024/07/21](https://cssbattle.dev/play/7T0XdIP4lLXtFht6PK2r)
 
 <img width="400px" height="300px" loading="lazy" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_fEuqCIG.png?alt=media">
@@ -55,6 +81,10 @@
 </style>
 ```
 
+<details>
+  <summary>Top Solution:</summary>
+  <pre><style>&{background:#328FC1;outline:solid 2in#0A6190}*{margin:50 25%;border-image:repeating-conic-gradient(var(--a,at 100%0,)#0A6190,25%,#0000 0 50%)100/80q;*{--a:</pre>
+</details>
 
 ## [2024/07/20](https://cssbattle.dev/play/74fe9XcTz4tjx4iscBz9)
 
@@ -293,6 +323,45 @@
     }
     &:nth-child(9) {
       border-top-left-radius: var(--radius-value);
+    }
+  }
+</style>
+```
+
+## [2024/07/15](https://cssbattle.dev/play/63FIG5VojdN2a8llcruA)
+
+<img width="400px" height="300px" loading="lazy" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_Huomr0X.png?alt=media">
+
+#### My Solution:
+
+```html
+<main>
+  <div></div>
+</main>
+<style>
+  * {
+    margin: 0;
+  }
+  main {
+    background: #B53733;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  div {
+    background: #EA7457;
+    height: 160px;
+    width: 190px;
+    border-radius:80px;
+    &::before {
+      content: "";
+      background: inherit;
+      width: 30px;
+      height: 150px;
+      display: block;
+      margin: -20px 0 0 80px;
+      border: 25px solid #B53733;
     }
   }
 </style>
