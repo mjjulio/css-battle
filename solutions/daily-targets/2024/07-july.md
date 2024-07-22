@@ -1,6 +1,6 @@
 # July 2024
 
-## [2024/07/21](https://cssbattle.dev/play/Xn5t4qDbfBvqHiOTRxa8)
+## [2024/07/22](https://cssbattle.dev/play/Xn5t4qDbfBvqHiOTRxa8)
 
 <img width="400px" height="300px" loading="lazy" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_WDIDQzO.png?alt=media">
 
@@ -323,6 +323,45 @@
     }
     &:nth-child(9) {
       border-top-left-radius: var(--radius-value);
+    }
+  }
+</style>
+```
+
+## [2024/07/15](https://cssbattle.dev/play/63FIG5VojdN2a8llcruA)
+
+<img width="400px" height="300px" loading="lazy" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_Huomr0X.png?alt=media">
+
+#### My Solution:
+
+```html
+<main>
+  <div></div>
+</main>
+<style>
+  * {
+    margin: 0;
+  }
+  main {
+    background: #B53733;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  div {
+    background: #EA7457;
+    height: 160px;
+    width: 190px;
+    border-radius:80px;
+    &::before {
+      content: "";
+      background: inherit;
+      width: 30px;
+      height: 150px;
+      display: block;
+      margin: -20px 0 0 80px;
+      border: 25px solid #B53733;
     }
   }
 </style>
