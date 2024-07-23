@@ -1,5 +1,36 @@
 # July 2024
 
+## [2024/07/23](https://cssbattle.dev/play/FSn5zoHleIhC5QyOrgUT)
+
+<img width="400px" height="300px" loading="lazy" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_uZhSTfo.png?alt=media">
+
+#### My Solution:
+
+```html
+<main>
+  <div></div>
+</main>
+<style>
+  * {
+    margin: 0;
+  }
+  main {
+    background: linear-gradient(#4F77FF 0 125px, #EFF8FE 125px 175px, #4F77FF 175px);
+    height: 100vh;
+  }
+  div {
+    width: 150px;
+    height: 150px;
+    background: #EFF8FE;
+    border-radius: 50%;
+    position: absolute;
+    top: -75px;
+    color: #EFF8FE;
+    box-shadow: 125px 0, 250px 0, 0 300px, 125px 300px, 250px 300px
+  }
+</style>
+```
+
 ## [2024/07/22](https://cssbattle.dev/play/Xn5t4qDbfBvqHiOTRxa8)
 
 <img width="400px" height="300px" loading="lazy" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_WDIDQzO.png?alt=media">
@@ -24,6 +55,10 @@
 </style>
 
 ```
+<details>
+  <summary>Top Solution:</summary>
+  <pre><ul><ul><p><style>*{height:70;border-inline:5vw solid#EA7457;margin:0;padding:40 20;p{width:300}}&{background:#B53733;margin:-10 30</pre>
+</details>
 
 
 ## [2024/07/21](https://cssbattle.dev/play/7T0XdIP4lLXtFht6PK2r)
