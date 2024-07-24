@@ -1,5 +1,46 @@
 # July 2024
 
+## [2024/07/24](https://cssbattle.dev/play/bHBi3b1NZkqOkTSGiK55)
+
+<img width="400px" height="300px" loading="lazy" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_kV6XT09.png?alt=media">
+
+#### My Solution:
+
+```html
+<main>
+  <div></div>  
+</main>
+<style>
+  * {
+    margin: 0;
+  }
+  main {
+    background: #EDAF38;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  div {
+    width: 280px;
+    height: 120px;
+    background: #FFFFCD;
+    position: relative;
+    &::before {
+      content: "";
+      display: block;
+      width: 100%;
+      height: 40px;
+      background: #7F7F24;
+      position: absolute;
+      border-radius: 50%;
+      top: -20px;
+      box-shadow: 0 120px#FFFFCD
+    }
+  }
+</style>
+```
+
 ## [2024/07/23](https://cssbattle.dev/play/FSn5zoHleIhC5QyOrgUT)
 
 <img width="400px" height="300px" loading="lazy" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_uZhSTfo.png?alt=media">
@@ -31,6 +72,11 @@
 </style>
 ```
 
+<details>
+  <summary>Top Solution:</summary>
+  <pre><style>*{--g:radial-gradient(1q,#EFF8FE 75px,#0000)634%50vh;background:var(--g)/62.53%,var(--g)#25fc;*{margin:125-9</style></pre>
+</details>
+
 ## [2024/07/22](https://cssbattle.dev/play/Xn5t4qDbfBvqHiOTRxa8)
 
 <img width="400px" height="300px" loading="lazy" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_WDIDQzO.png?alt=media">
@@ -57,7 +103,7 @@
 ```
 <details>
   <summary>Top Solution:</summary>
-  <pre><ul><ul><p><style>*{height:70;border-inline:5vw solid#EA7457;margin:0;padding:40 20;p{width:300}}&{background:#B53733;margin:-10 30</pre>
+  <pre><ul><ul><p><style>*{height:70;border-inline:5vw solid#EA7457;margin:0;padding:40 20;p{width:300}}&{background:#B53733;margin:-10 30</style></pre>
 </details>
 
 
@@ -118,7 +164,7 @@
 
 <details>
   <summary>Top Solution:</summary>
-  <pre><style>&{background:#328FC1;outline:solid 2in#0A6190}*{margin:50 25%;border-image:repeating-conic-gradient(var(--a,at 100%0,)#0A6190,25%,#0000 0 50%)100/80q;*{--a:</pre>
+  <pre><style>&{background:#328FC1;outline:solid 2in#0A6190}*{margin:50 25%;border-image:repeating-conic-gradient(var(--a,at 100%0,)#0A6190,25%,#0000 0 50%)100/80q;*{--a:</style></pre>
 </details>
 
 ## [2024/07/20](https://cssbattle.dev/play/74fe9XcTz4tjx4iscBz9)
@@ -174,7 +220,7 @@
 
 <details>
   <summary>Top Solution:</summary>
-  <pre><style>&{background:#F48B26;border:5vw dashed#FEFF58;margin:130 60;scale:1 5;*{margin:-48 60;scale:5 1;border-top:dotted 7ch#F48B26</pre>
+  <pre><style>&{background:#F48B26;border:5vw dashed#FEFF58;margin:130 60;scale:1 5;*{margin:-48 60;scale:5 1;border-top:dotted 7ch#F48B26</style></pre>
 </details>
 
 
@@ -262,7 +308,7 @@
 
 <details>
   <summary>Top Solution:</summary>
-  <pre><style>&{margin:-10 0;background:#25834A;border:solid 5pc#041E;*{margin:-20 90;background:#48BF7D</pre>
+  <pre><style>&{margin:-10 0;background:#25834A;border:solid 5pc#041E;*{margin:-20 90;background:#48BF7D</style></pre>
 </details>
 
 ## [2024/07/17](https://cssbattle.dev/play/63uT8mAsvJRLBjA2dsct)
