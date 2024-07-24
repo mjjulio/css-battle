@@ -74,7 +74,7 @@
 
 <details>
   <summary>Top Solution:</summary>
-  <pre><style>*{--g:radial-gradient(1q,#EFF8FE 75px,#0000)634%50vh;background:var(--g)/62.53%,var(--g)#25fc;*{margin:125-9</style></pre>
+  <pre>&lt;style&gt;*{--g:radial-gradient(1q,#EFF8FE 75px,#0000)634%50vh;background:var(--g)/62.53%,var(--g)#25fc;*{margin:125-9</pre>
 </details>
 
 ## [2024/07/22](https://cssbattle.dev/play/Xn5t4qDbfBvqHiOTRxa8)
@@ -164,7 +164,7 @@
 
 <details>
   <summary>Top Solution:</summary>
-  <pre><style>&{background:#328FC1;outline:solid 2in#0A6190}*{margin:50 25%;border-image:repeating-conic-gradient(var(--a,at 100%0,)#0A6190,25%,#0000 0 50%)100/80q;*{--a:</style></pre>
+  <pre>&lt;style&gt;&{background:#328FC1;outline:solid 2in#0A6190}*{margin:50 25%;border-image:repeating-conic-gradient(var(--a,at 100%0,)#0A6190,25%,#0000 0 50%)100/80q;*{--a:</pre>
 </details>
 
 ## [2024/07/20](https://cssbattle.dev/play/74fe9XcTz4tjx4iscBz9)
@@ -220,7 +220,7 @@
 
 <details>
   <summary>Top Solution:</summary>
-  <pre><style>&{background:#F48B26;border:5vw dashed#FEFF58;margin:130 60;scale:1 5;*{margin:-48 60;scale:5 1;border-top:dotted 7ch#F48B26</style></pre>
+  <pre>&lt;style&gt;&{background:#F48B26;border:5vw dashed#FEFF58;margin:130 60;scale:1 5;*{margin:-48 60;scale:5 1;border-top:dotted 7ch#F48B26</pre>
 </details>
 
 
@@ -308,7 +308,7 @@
 
 <details>
   <summary>Top Solution:</summary>
-  <pre><style>&{margin:-10 0;background:#25834A;border:solid 5pc#041E;*{margin:-20 90;background:#48BF7D</style></pre>
+  <pre>&lt;style&gt;&{margin:-10 0;background:#25834A;border:solid 5pc#041E;*{margin:-20 90;background:#48BF7D</pre>
 </details>
 
 ## [2024/07/17](https://cssbattle.dev/play/63uT8mAsvJRLBjA2dsct)
