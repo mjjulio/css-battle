@@ -103,7 +103,7 @@
 ```
 <details>
   <summary>Top Solution:</summary>
-  <pre><ul><ul><p><style>*{height:70;border-inline:5vw solid#EA7457;margin:0;padding:40 20;p{width:300}}&{background:#B53733;margin:-10 30</style></pre>
+  <pre>&lt;ul&gt;&lt;ul&gt;&lt;p&gt;&lt;style&gt;*{height:70;border-inline:5vw solid#EA7457;margin:0;padding:40 20;p{width:300}}&{background:#B53733;margin:-10 30</pre>
 </details>
 
 
