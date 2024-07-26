@@ -1,5 +1,94 @@
 # July 2024
 
+## [2024/07/26](https://cssbattle.dev/play/GNrUGaHW1z8dl9laoSyH)
+
+<img width="400px" height="300px" loading="lazy" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fe6YbeBahWNPT7VpE2rE2p85byxa2%2Ftargets%2Ftarget_nZNFqfq.png?alt=media">
+
+#### My Solution:
+
+```html
+<main>
+  <div></div>
+</main>
+<style>
+  * {
+    margin: 0;
+  }
+  main {
+    background: #6592CF;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  div {
+    width: 80px;
+    height: 80px;
+    background: #6592CF;
+    border-radius: 50%;
+    color: #243D83;
+    box-shadow:0 0 0 10px#6592CF,0 0 0 60px,90px 0,-90px 0,0 90px,0 -90px;
+  }
+<style>
+```
+
+
+## [2024/07/25](https://cssbattle.dev/play/upqEEg4l0MN1kzjv5TsL)
+
+<img width="400px" height="300px" loading="lazy" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_gnSZ8bi.png?alt=media">
+
+#### My Solution:
+
+```html
+<main>
+  <div class="hat hat__top"></div>
+  <div class="hat hat__brim"></div>
+  <div class="hat hat__bottom"></div>
+</main>
+<style>
+  * {
+    background: #024817;
+    margin: 0;
+  }
+  .hat {
+    background: #48BF7D;
+    position: absolute;  
+    border-radius: var(--radius, 0);
+  }
+  .hat__top {
+    width: 100px;
+    height: 90px;
+    top: 80px;
+    left: 150px;
+    z-index: 30;
+    --radius: 60px 60px 55px 55px/ 60px 60px 20px 20px;
+  }
+  .hat__brim {
+    width: 300px;
+    height: 80px;
+    background: #25834A;
+    top: 115px;
+    left: 50px;
+    z-index: 20;
+    --radius: 50%;
+  }
+  .hat__bottom {
+    width: 100px;
+    height: 50px;
+    top: 170px;
+    left: 150px;
+    z-index: 10;
+    --radius: 60px / 20px;
+  }
+</style>
+```
+
+<details>
+  <summary>Top Solution</summary>
+  <pre>&lt;p&gt;&lt;hr&gt;&lt;p&gt;<style>hr{border:5ch solid#25834A;margin:-64%42;--r:}p{border:48q solid#48BF7D;margin:130 37%141}*{background:#024817;border-radius:50%var(--r,/55%55%17%17%</pre>
+</details>
+
+
 ## [2024/07/24](https://cssbattle.dev/play/bHBi3b1NZkqOkTSGiK55)
 
 <img width="400px" height="300px" loading="lazy" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_kV6XT09.png?alt=media">
@@ -40,6 +129,11 @@
   }
 </style>
 ```
+
+<details>
+  <summary>Top Solution</summary>
+  <pre>&lt;style&gt;&{margin:70 60;border-radius:7in/1in;box-shadow:inset 0-30vw#ffc,inset 0 9in#7F7F24,0 0 0 9in#EDAF38</pre>
+</details>
 
 ## [2024/07/23](https://cssbattle.dev/play/FSn5zoHleIhC5QyOrgUT)
 
