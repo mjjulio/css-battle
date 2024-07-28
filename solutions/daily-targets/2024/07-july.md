@@ -1,5 +1,19 @@
 # July 2024
 
+## [2024/07/27](https://cssbattle.dev/play/iNl2xqdjFtj96v8e9S7D)
+
+<img width="400px" height="300px" loading="lazy" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_QI1Xtqr.png?alt=media">
+
+#### My Solution:
+
+```html
+```
+
+<summary>
+  <details>Top Solution</details>
+  <pre><style>&{background:conic-gradient(from.82rad,#FEFF58 74%,#F48B26 0)8q 339q/16%5in;border-image:48%200/0 47.5%68%radial-gradient(#0000 61q,#F48B26 62q</pre>
+</summary>
+
 ## [2024/07/26](https://cssbattle.dev/play/GNrUGaHW1z8dl9laoSyH)
 
 <img width="400px" height="300px" loading="lazy" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fe6YbeBahWNPT7VpE2rE2p85byxa2%2Ftargets%2Ftarget_nZNFqfq.png?alt=media">
@@ -31,6 +45,11 @@
   }
 <style>
 ```
+
+<details>
+  <summary>Top Solution:</summary>
+  <pre>&lt;style&gt;&{background:#6592CF;margin:25%150;outline:5em dotted;border-radius:3in;color:243D83;rotate:.5deg;box-shadow:0 0 0 53q</pre>
+</details>
 
 
 ## [2024/07/25](https://cssbattle.dev/play/upqEEg4l0MN1kzjv5TsL)
