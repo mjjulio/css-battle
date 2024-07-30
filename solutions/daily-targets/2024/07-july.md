@@ -11,7 +11,7 @@
 <main>
   <div></div>
 </main>
-<style>
+&lt;style&gt;
   * {
     margin: 0;
   }
@@ -39,7 +39,7 @@
       top: 9px;
     }
   }
-</style>
+&lt;/style&gt;
 ```
 
 ## [2024/07/29](https://cssbattle.dev/play/GxQty11Bn3ebES2ELzsR)
@@ -55,7 +55,7 @@
   </div>
   <div></div>
 </main>
-<style>
+&lt;style&gt;
   * {
     margin: 0;
   }
@@ -89,7 +89,7 @@
       width: 60px;
     }
   }
-</style>
+&lt;/style&gt;
 ```
 
 <summary>
@@ -135,7 +135,7 @@
 <main>
   <div></div>
 </main>
-<style>
+&lt;style&gt;
   * {
     margin: 0;
   }
@@ -154,7 +154,7 @@
     color: #243D83;
     box-shadow:0 0 0 10px#6592CF,0 0 0 60px,90px 0,-90px 0,0 90px,0 -90px;
   }
-<style>
+&lt;style&gt;
 ```
 
 <details>
@@ -175,7 +175,7 @@
   <div class="hat hat__brim"></div>
   <div class="hat hat__bottom"></div>
 </main>
-<style>
+&lt;style&gt;
   * {
     background: #024817;
     margin: 0;
@@ -210,12 +210,12 @@
     z-index: 10;
     --radius: 60px / 20px;
   }
-</style>
+&lt;/style&gt;
 ```
 
 <details>
   <summary>Top Solution</summary>
-  <pre>&lt;p&gt;&lt;hr&gt;&lt;p&gt;<style>hr{border:5ch solid#25834A;margin:-64%42;--r:}p{border:48q solid#48BF7D;margin:130 37%141}*{background:#024817;border-radius:50%var(--r,/55%55%17%17%</pre>
+  <pre>&lt;p&gt;&lt;hr&gt;&lt;p&gt;&lt;style&gt;hr{border:5ch solid#25834A;margin:-64%42;--r:}p{border:48q solid#48BF7D;margin:130 37%141}*{background:#024817;border-radius:50%var(--r,/55%55%17%17%</pre>
 </details>
 
 
@@ -229,7 +229,7 @@
 <main>
   <div></div>  
 </main>
-<style>
+&lt;style&gt;
   * {
     margin: 0;
   }
@@ -257,7 +257,7 @@
       box-shadow: 0 120px#FFFFCD
     }
   }
-</style>
+&lt;/style&gt;
 ```
 
 <details>
@@ -275,7 +275,7 @@
 <main>
   <div></div>
 </main>
-<style>
+&lt;style&gt;
   * {
     margin: 0;
   }
@@ -293,7 +293,7 @@
     color: #EFF8FE;
     box-shadow: 125px 0, 250px 0, 0 300px, 125px 300px, 250px 300px
   }
-</style>
+&lt;/style&gt;
 ```
 
 <details>
@@ -309,7 +309,7 @@
 
 ```html
 <div></div>
-<style>
+&lt;style&gt;
   * {
     margin: 0;
     background: #B53733;
@@ -322,7 +322,7 @@
     margin: -10px 0 0 30px;
     box-shadow: 40px 40px, 80px 80px, 120px 120px, 160px 160px, 200px 120px, 240px 80px, 280px 40px, 320px 0
   }
-</style>
+&lt;/style&gt;
 
 ```
 <details>
@@ -349,7 +349,7 @@
   <div class="before"></div>
   <div></div>
 </main>
-<style>
+&lt;style&gt;
   * {
     margin: 0;
   }
@@ -383,7 +383,7 @@
       inset: 0 0 auto auto;
     }
   }
-</style>
+&lt;/style&gt;
 ```
 
 <details>
@@ -405,7 +405,7 @@
   <div></div>
   <div></div>
 </main>
-<style>
+&lt;style&gt;
   * {
     margin: 0;
   }
@@ -439,7 +439,7 @@
       left: -80px
     }
   }
-</style>
+&lt;/style&gt;
 ```
 
 <details>
@@ -464,7 +464,7 @@
   <div></div>
   <div></div>
 </main>
-<style>
+&lt;style&gt;
   * {
     margin: 0;
   }
@@ -489,7 +489,7 @@
       grid-area: 3 / 1 / span 1 / span 2;
     }
   }
-</style>
+&lt;/style&gt;
 ```
 
 ## [2024/07/18](https://cssbattle.dev/play/j3ykZzA2Y99AsYcPCRKo)
@@ -504,7 +504,7 @@
   <div></div>
   <div></div>
 </main>
-<style>
+&lt;style&gt;
   * {
     margin: 0;
   }
@@ -526,7 +526,7 @@
       height: 200px
     }
   }
-</style>
+&lt;/style&gt;
 
 ```
 
@@ -548,7 +548,7 @@
     <div class="eyes"></div>
   </div>
 </main>
-<style>
+&lt;style&gt;
   * { 
     margin: 0
   }
@@ -577,7 +577,7 @@
       border-color: #EDAF38 transparent transparent;
     }
   }
-</style>
+&lt;/style&gt;
 ```
 
 ## [2024/07/16](https://cssbattle.dev/play/Xi1SSXp9H6g10bK65ZLA)
@@ -598,7 +598,7 @@
   <div></div>
   <div></div>
 </main>
-<style>
+&lt;style&gt;
   * {
     margin: 0
   }
@@ -630,7 +630,7 @@
       border-top-left-radius: var(--radius-value);
     }
   }
-</style>
+&lt;/style&gt;
 ```
 
 ## [2024/07/15](https://cssbattle.dev/play/63FIG5VojdN2a8llcruA)
@@ -643,7 +643,7 @@
 <main>
   <div></div>
 </main>
-<style>
+&lt;style&gt;
   * {
     margin: 0;
   }
@@ -669,7 +669,7 @@
       border: 25px solid #B53733;
     }
   }
-</style>
+&lt;/style&gt;
 ```
 
 ## [2024/07/14](https://cssbattle.dev/play/m1cHlo8crbGrZEPvie07)
@@ -685,7 +685,7 @@
   <div></div>
   <div></div>
 </main>
-<style>
+&lt;style&gt;
   * {
     margin: 0;
   }
@@ -710,7 +710,7 @@
     width: 100px;
     border-radius: 50%;
   }
-</style>
+&lt;/style&gt;
 ```
 
 ## [2024/07/13](https://cssbattle.dev/play/tE24mLVrdztTiYmqdq3K)
@@ -727,7 +727,7 @@
   <div></div>
   <div></div>
 </main>
-<style>
+&lt;style&gt;
   * {
     margin: 0;
   }
@@ -750,7 +750,7 @@
       --var-height: 100%;
     }
   }
-</style>
+&lt;/style&gt;
 ```
 
 ## [2024/07/12](https://cssbattle.dev/play/zdlHeV5jrQqFujTJ6RcR)
@@ -764,7 +764,7 @@
   <div></div>
   <div></div>
 </main>
-<style>
+&lt;style&gt;
   * {
     margin: 0;
   }
@@ -788,5 +788,5 @@
       scale:-1
     }
   }
-</style>
+&lt;/style&gt;
 ```
