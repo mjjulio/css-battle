@@ -108,7 +108,7 @@
 
 <summary>
   <details>Top Solution</details>
-  <pre>&lt;style&gt;&>*{border:dashed 53q#0A6190;margin:25%30;background:radial-gradient(1q,#328FC1,25vw,#0A6190</pre>
+  <pre>&lt;style&gt;&&gt;*{border:dashed 53q#0A6190;margin:25%30;background:radial-gradient(1q,#328FC1,25vw,#0A6190</pre>
 </summary>
 
 ## [2024/07/27](https://cssbattle.dev/play/iNl2xqdjFtj96v8e9S7D)
