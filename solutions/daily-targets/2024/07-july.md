@@ -92,10 +92,10 @@
 &lt;/style&gt;
 ```
 
-<summary>
-  <details>Top Solution</details>
+<details>
+  <summary>Top Solution</summary>
   <pre>&lt;style&gt;*{margin:-9%30%100;border-bottom:6cm solid#EA7457;border-radius:5ch;background:#B53733;*{margin:85%50-452</pre>
-</summary>
+</details>
 
 ## [2024/07/28](https://cssbattle.dev/play/qVtW4XCqGyq0TXCckUmb)
 
@@ -106,10 +106,10 @@
 ```html
 ```
 
-<summary>
-  <details>Top Solution</details>
+<details>
+  <summary>Top Solution</summary>
   <pre>&lt;style&gt;&&gt;*{border:dashed 53q#0A6190;margin:25%30;background:radial-gradient(1q,#328FC1,25vw,#0A6190</pre>
-</summary>
+</details>
 
 ## [2024/07/27](https://cssbattle.dev/play/iNl2xqdjFtj96v8e9S7D)
 
