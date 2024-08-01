@@ -1,6 +1,20 @@
 # July 2024
 
 
+## [2024/07/31](https://cssbattle.dev/play/Jn3oqy4ZnpuFadSihkje)
+
+<img width="400px" height="300px" loading="lazy" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_tNmMlmv.png?alt=media">
+
+#### My Solution:
+
+```html
+```
+
+<details>
+  <summary>Top Summary:</summary>
+  <pre></pre>
+</details>
+
 ## [2024/07/30](https://cssbattle.dev/play/UDfgrSQFpIB9fOynmzP6)
 
 <img width="400px" height="300px" loading="lazy" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_TeKaEJq.png?alt=media">
