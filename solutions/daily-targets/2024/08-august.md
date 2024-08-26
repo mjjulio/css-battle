@@ -1,5 +1,37 @@
 # August 2024
 
+## [2024/08/26](https://cssbattle.dev/play/Ren6hs0s48vv9yY9WFeg)
+
+<img width="400px" height="300px" loading="lazy" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fe6YbeBahWNPT7VpE2rE2p85byxa2%2Ftargets%2Ftarget_i5qnFjY.png?alt=media">
+
+#### My Solution:
+
+```html
+<main>
+  <div></div>
+</main>
+&lt;style&gt;
+  * {
+    margin: 0;
+  }
+  main {
+    background: #B53733;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  div {
+    background: #ffffff;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin-top: 60px;
+    box-shadow:0 -60px#B53733,-30px -30px, 30px -30px
+  }
+&lt;/style&gt;
+```
+
 ## [2024/08/08](https://cssbattle.dev/play/uU6aVHI1ExrcGJEP8Bt4)
 
 <img width="400px" height="300px" loading="lazy" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fe6YbeBahWNPT7VpE2rE2p85byxa2%2Ftargets%2Ftarget_mQzLHx6.png?alt=media">
